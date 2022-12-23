@@ -58,7 +58,7 @@ JSON（JavaScript Object Notation）是一个用于数据交换的文本格式�
 * array: 表示为 [ ... ]
 * object: 表示为 { ... }
 
-我们要实现的 JSON 库，主要是完成 3 个需求：
+我们要实现的 JSON 库，主要是完成 3 个需求：kkk
 
 1. 把 JSON 文本解析为一个树状数据结构（parse）。
 2. 提供接口访问该数据结构（access）。
